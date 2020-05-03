@@ -1,0 +1,76 @@
+ body{
+        background-color: skyblue;
+ }
+ 
+ .some input{
+           width:40%;
+           height: 70%;
+           border:1px solid;
+           border-radius: 30px;
+           text-align: center;
+ }
+
+  .some label{
+      padding: 5px;
+      text-transform: uppercase;
+      font-weight: 900;
+      font-size: 150%;
+      font-family: 'Raleway',sans-serif;
+  }
+
+  .some{
+          padding: 10px;
+  }
+
+ .so textarea{
+     width:40%;
+     border-radius: 30px;
+     border:1px solid;
+ }
+
+ .so{
+     padding: 10px;
+ }
+
+ .oh{
+        background-color:lightgreen;
+        font-weight: bold;
+        border-radius: 30px;
+        left:15%;
+        position: relative;
+ }
+
+ .overlay{
+              
+              background-color: #fff;
+              width:80%;
+              
+              position: absolute;
+              top:5%;
+              left:10%;
+              
+ }
+
+ .overlay form{
+             position: relative;
+             left:50%;
+ }
+
+ form label{
+        font-family: 'Raleway',sans-serif;
+ }
+
+ h1{
+     font-family: 'Raleway',sans-serif;
+     text-align: center;
+     color: black;
+     font-weight: bold;
+ }
+
+ .somo{
+          position: absolute;
+          top:25%;
+          left:0%;
+          width:50%;
+          height: 50%;
+ }
